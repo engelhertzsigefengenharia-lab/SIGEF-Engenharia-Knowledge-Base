@@ -1,4 +1,4 @@
-# SIGEF Knowledge Base
+# SIGEF Engenharia - Knowledge Base
 
 Base oficial de documentação do projeto SIGEF.
 
@@ -35,3 +35,39 @@ Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, r
 🚧 Em desenvolvimento
 
 Versão 0.1
+
+## Conexão Knowledge Base - Engelhertz.SIGEF vs Knowledge Base - TCC II.
+
+engelhertz-labs-br
+│
+├──────────────────────────────────────┐
+│                                      │
+│ knowledge-base                       │
+│                                      │
+│ Pesquisas                            │
+│ Artigos                              │
+│ Dados                               │
+│ Python                              │
+│ Dashboards                          │
+│ Modelagem                           │
+│ Diagramas                           │
+│ BI                                  │
+│                                      │
+└──────────────┬───────────────────────┘
+               │
+               │ fornece conhecimento
+               ▼
+┌──────────────────────────────────────┐
+│                                      │
+│ tcc-ii                               │
+│                                      │
+│ Introdução                           │
+│ Fundamentação                        │
+│ Metodologia                          │
+│ Desenvolvimento                      │
+│ Resultados                           │
+│ Defesa                               │
+│ Versão Final                         │
+│                                      │
+└──────────────────────────────────────┘
+
