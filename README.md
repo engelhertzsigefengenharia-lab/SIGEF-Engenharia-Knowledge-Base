@@ -39,12 +39,16 @@ Versão 0.1
 ## Conexão Knowledge Base - Engelhertz.SIGEF vs Knowledge Base - TCC II.
 
 engelhertz-labs-br
+
 │
 ├──────────────────────────────────────┐
 │                                      │
+
 │ knowledge-base                       │
 │                                      │
-│ Pesquisas                            │
+
+│ Pesquisas    
+│
 │ Artigos                              │
 │ Dados                               │
 │ Python                              │
